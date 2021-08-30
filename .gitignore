@@ -1,0 +1,6 @@
+# Visual Studio 
+.vscode/
+
+#Built application files
+*.exe
+*.json
