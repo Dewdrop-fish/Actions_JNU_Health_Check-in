@@ -7,5 +7,5 @@ import (
 
 func main() {
 	sckey := os.Getenv("SCKEY")
-	fmt.Println(sckey)
+	fmt.Println("sckey is "+sckey)
 	}
